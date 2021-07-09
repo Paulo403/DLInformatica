@@ -12,3 +12,10 @@ v2.0
 > Files reorganized.
 > Header font changed.
 > Note: The search bar doesn't work, nor it is supposed to. It is purely aesthetic.
+
+-> BRRRRRRT!
+          █
+        ▄▄█▄▄
+    ▀▀▀██▀▀▀██▀▀▀
+▄▄▄▄▄▄▄███████▄▄▄▄▄▄▄
+  █▄█  ▀██▄██▀  █▄█
