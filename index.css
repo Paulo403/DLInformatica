@@ -92,6 +92,7 @@ table {
 
  .produto{
    float: left;
+   height: 30%;
    width: 280px;
    text-align: center;
    font-family: Tahoma;
